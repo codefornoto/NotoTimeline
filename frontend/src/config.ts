@@ -2,5 +2,6 @@ export const GAS_URL = "https://script.google.com/macros/s/AKfycbzR_NujlRIOAJ6Cz
 export const TITLE = {
   nanao: "石川県七尾市",
   monzen: "輪島市門前町",
+  teamsquare: "チームスクエア",
   test: "テスト用のページ"
 }
