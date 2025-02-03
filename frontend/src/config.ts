@@ -3,5 +3,6 @@ export const TITLE = {
   nanao: "石川県七尾市",
   monzen: "輪島市門前町",
   teamsquare: "チームスクエア",
+  sutekiphoto: "能登のステキ写真展",
   test: "テスト用のページ"
 }
